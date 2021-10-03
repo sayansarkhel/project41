@@ -116,9 +116,9 @@ class Game{
 
                                 //Update the score in the database
 
-                                 score.update()
+                                // score.update()
                                 //player.score.update()
-                                //player.update();
+                                player.update();
                                 //update();
                                     
                           }
